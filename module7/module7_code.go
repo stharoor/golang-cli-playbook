@@ -1,10 +1,5 @@
 package module7
 
-import (
-	"fmt"
-	"runtime"
-)
-
-func content() {
+/* func content() {
 	fmt.Println(runtime.GOOS)
-}
+} */
