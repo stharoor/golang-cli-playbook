@@ -1,0 +1,3 @@
+func FunctionForModule6GoDoc()
+    Sample comment for testing
+
